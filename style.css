@@ -1,0 +1,172 @@
+
+    
+        
+        h1 {
+          color: rgb(0, 100, 110);
+          font-family: cursive;
+          text-align: center;
+  
+        }
+
+          h2 {
+          color: purple;
+          font-family: cursive;
+          font-size: 2.2em;
+          font-weight: bold;
+          text-align: center;
+          
+       
+        }
+      
+        body {
+          color: darkblue;
+          background-color: rgb(135,                 206,235);
+          font-family: "Helvetica", sans-           serif;
+          font-size: 18px;
+          font-style: italic;
+          line-height: 1.7em;
+          
+        }
+        
+        p {
+          color: darkblue;
+        }
+        
+        .mind {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 10px 10px 157px;
+        padding: 11px;
+        }
+        
+        .body {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+        
+        .spirit {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+
+        .connection {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+     
+        .wealth {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+
+        .career {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+
+        .emotion {
+        background-color: lightyellow;
+        width: 74.5%;
+        height: 200px;
+        overflow: auto;
+        margin: 0px 17px 10px 157px;
+        padding: 11px;
+        }
+    
+        .bordered-container {
+        border: 3px solid blue;
+        padding: 8px;
+        }
+
+        img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
+
+        #flowering-minds {
+        width: 1000px;
+        height: 500px;
+        border: 10px double green;
+        
+        }
+
+        #brain {
+        width: 700px;
+        border: 10px groove green;
+        }
+    
+        #yoga {
+        width: 700px;
+        border: 10px groove green;
+  
+        }
+
+        #soul {
+        width: 700px;
+        border: 10px groove green;
+        }
+
+        #friends {
+        width: 700px;
+        border: 10px groove green;
+        }
+  
+        #money {
+        width: 700px;
+        border: 10px groove green;
+        }
+
+        #job {
+        width: 700px;
+        border: 10px groove green;
+        }
+
+        #feelings {
+        width: 700px;
+        border: 10px groove green;
+        }
+
+        #container {
+        width: auto;
+        margin: auto;
+          }
+        
+        #sources {
+        float: right;
+        width: 13%;
+        margin-left: 0px;
+        }
+
+        p .purple {
+        color: purple;
+        }
+
+        a:hover, a:active, a:focus { 
+                background-color:                 rgb(253, 229, 198);
+                }
+        
+        
+    
